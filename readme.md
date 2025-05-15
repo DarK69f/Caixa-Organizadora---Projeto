@@ -1,5 +1,3 @@
-padding5# Caixa-Organizadora---Projeto
-
 ### Diário de Bordo – Criação de Caixa Organizadora
 
 #### Integrantes:
